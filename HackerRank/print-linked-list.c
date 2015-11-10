@@ -8,7 +8,6 @@
      struct Node *next;
   }
 */
-
 void Print(Node *head)
 {
     if (head == NULL) {
